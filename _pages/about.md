@@ -11,13 +11,13 @@ profile:
   more_info: >
     <p>New York, NY</p>
     <p>Email: shaswat178@gmail.com</p>
-    <p><a href="https://www.linkedin.com/in/shaswat-patel/">LinkedIn</a></p>
+    <p><a href="https://www.linkedin.com/in/shaswat-patel/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=qu10iecAAAAJ&hl=en">Google Scholar</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -29,7 +29,7 @@ latest_posts:
 
 I am a Machine Learning Engineer and Researcher currently pursuing a Master of Science in Computer Science at New York University. My research interests lie at the intersection of Large Language Models, Mechanistic Interpretability, and applications of LLM.
 
-I have worked on various projects involving RAG (Retrieval Augmented Generation) systems, fine-tuning transformer models, and applying machine learning to solve biomedical challenges. Currently, I'm working as a Machine Learning Engineer Intern at Studio Management, where I'm developing an Event Recommendation GPT system with advanced RAG capabilities. Checkout [Outie](https://www.outie.life/home).
+I’ve contributed to multiple projects focused on RAG (Retrieval-Augmented Generation) systems, fine-tuning transformer models, and leveraging machine learning to address a range of problems. Currently, I'm worked as a Machine Learning Engineer Intern at Studio Management, where I'm developing an Event Recommendation GPT system with advanced RAG capabilities. Checkout [Outie](https://www.outie.life/home).
 
 Previously, I worked as a Software Engineer at Walmart, where I developed Confluence-integrated chatbots and automated monitoring systems. I also have experience as a Machine Learning Associate at Tavlab and MIDAS LAB, where I worked on biomedical NLP tasks, visual speech recognition, and COVID gene sequencing projects. Currently I am working with [Dr. Eunsol Choi](https://eunsol.github.io/) and [Dr. He He](https://hhexiy.github.io/).
 
