@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alshedivat.github.io/al-folio/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alshedivat.github.io/al-folio/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-04T00:12:15-05:00</updated><id>https://alshedivat.github.io/al-folio/feed.xml</id><title type="html">blank</title><subtitle>Machine Learning Engineer and Researcher. Currently pursuing MS in Computer Science at NYU. Interested in NLP, LLMs, and Biomedical AI.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alshedivat.github.io/al-folio/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alshedivat.github.io/al-folio/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-04T00:19:36-05:00</updated><id>https://alshedivat.github.io/al-folio/feed.xml</id><title type="html">blank</title><subtitle>Machine Learning Engineer and Researcher. Currently pursuing MS in Computer Science at NYU. Interested in NLP, LLMs, and Biomedical AI.
 </subtitle><entry><title type="html">a post with plotly.js</title><link href="https://alshedivat.github.io/al-folio/blog/2025/plotly/" rel="alternate" type="text/html" title="a post with plotly.js" /><published>2025-03-26T10:24:00-04:00</published><updated>2025-03-26T10:24:00-04:00</updated><id>https://alshedivat.github.io/al-folio/blog/2025/plotly</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2025/plotly/"><![CDATA[<p>This is an example post with some <a href="https://plotly.com/javascript/">plotly</a> code.</p>
 
 <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">plotly
@@ -202,7 +202,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="27817448-cefe-43ed-bcf9-b2828d88a48f" data-name="log">
+<ul id="log" class="tab" data-tab="1f067ee3-9688-43c2-9bdb-a28f44745377" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -217,7 +217,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="27817448-cefe-43ed-bcf9-b2828d88a48f" data-name="log">
+<ul class="tab-content" id="1f067ee3-9688-43c2-9bdb-a28f44745377" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -241,7 +241,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="327fa520-773c-4d35-be63-c616351153e9" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="2adfff61-dc3b-4c2a-bb9e-58edd10b17f3" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -252,7 +252,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="327fa520-773c-4d35-be63-c616351153e9" data-name="data-struct">
+<ul class="tab-content" id="2adfff61-dc3b-4c2a-bb9e-58edd10b17f3" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -274,7 +274,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="a7eebbfa-d57e-4463-b4af-de8486b4ea98" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="3463c22b-f66c-4e39-9826-09315d4cfc88" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -289,7 +289,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="a7eebbfa-d57e-4463-b4af-de8486b4ea98" data-name="something-else">
+<ul class="tab-content" id="3463c22b-f66c-4e39-9826-09315d4cfc88" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
