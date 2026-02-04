@@ -1,0 +1,117 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Shaswat Patel
+    - name: Email
+      value: shaswat178@gmail.com
+    - name: Mobile
+      value: +1(201) 918-9767
+    - name: Languages
+      value: English, Hindi
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Science in Computer Science
+      institution: New York University, New York, NY
+      year: Sept 2024 - May 2026
+      description:
+        - GPA: 3.83/4.0
+    - title: Bachelor of Engineering in Computer Engineering
+      institution: Netaji Subhas Institute of Technology, New Delhi, India
+      year: Jun 2018 - May 2022
+      description:
+        - GPA: 8.2/10.0
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Machine Learning Engineer Intern
+      institution: Studio Management, NY, USA
+      year: Jun 2025 - Present
+      description:
+        - "Event Recommendation GPT: A search and discovery utility tool for real-life events. The system consists of:"
+        - title: RAG
+          contents:
+            - Fine-tuned a distilled BERT model with GPT-generated metadata to support metadata-based filtering, achieving 90% accuracy while reducing latency by 75%
+            - Implemented a dense retrieval pipeline leveraging OpenAI embeddings, followed by re-ranking via Jina AI's cross-encoder
+            - Incorporated multi-dimensional signals such as venue information and out-of-distribution scoring to prioritize unique and diverse events
+        - title: Memory Module
+          contents:
+            - Implemented a custom memory architecture to store long-term user preferences (e.g., preferred genres, locations)
+            - The implementation includes tool-calling for CRUD operations on memory
+            - The current module is 85% accurate at extracting user preferences
+        - "Multi-Turn Summarizer: Implemented standard techniques to support multi-turn conversation by maintaining state of the conversation via summarizer"
+        - "ReAct Tool-Calling Framework: To support multiple queries, the RAG pipeline is encapsulated via a ReACT tool-calling framework. Queries include: weekly calendar creation and daily planner which includes restaurants, activities and events"
+        - "Test dataset: Automatic pipeline to curate and store events for testing different components of RAG pipeline. The pipeline also includes E2E testing via GEval and DeepEvals"
+    - title: Software Engineer
+      institution: Walmart, Chennai, India
+      year: Jul 2022 - Jul 2024
+      description:
+        - Confluence based Chatbot: Spearheaded the development of Confluence-integrated chatbot using Retrieval Augmented Generation(RAG) and Large Language Models(LLMs) to generate Walmart's system specific text responses. Responsible for building the backend using FastAPI(python), LangChain, and OpenAI's chatGPT API
+        - The Minion Project: Played a key role in developing APIs for the Automated Continuous Monitoring System, affectionately known as Minion. This effort enhanced Time to Detect(TTD) by 50%, eventually leading to its adoption as a framework across all critical Walmart systems. The APIs are developed using FastAPI(python)
+        - Project Galaxy: Spearheaded the development of the frontend of the Project Galaxy which focused on quick recovery from a bug across multiple systems(and teams). The project involved more than five dependent different teams. This effort enhanced Time to Recover(TTR) by 30%
+        - Bravo award: Honored with the Bravo Award for outstanding contributions
+    - title: Machine Learning Associate
+      institution: Tavlab, Delhi, India
+      year: Nov 2020 - Oct 2023
+      description:
+        - Addressed biomedical challenges: Applied NLP (BioBERT, GPT-3.5, Mistral) embeddings and Machine Learning (Logistic Regression, SVM, Gradient Boosting) to solve biomedical challenges. Focused on tasks including sepsis prediction, abnormal shock index prediction, mortality estimation, and length of stay analysis
+        - Implemented modeling sharding on multi-GPU setup and increased inference speed by 15%
+        - Achieved state-of-the-art results
+        - COVID Gene Sequencing: Built a transformer based model to understand genomic sequences for covid strains. Using the next-sentence prediction task, transformed the DNA sequence into codons and built a vocabulary of all the possible codons. Then trained the model on a large corpus of existing known DNA sequences. Built a regression model on top of this model to predict the number of patients in the next 1-, 2-, and 3-months
+    - title: Machine Learning Associate
+      institution: MIDAS LAB, Delhi, India
+      year: Nov 2020 - Nov 2022
+      description:
+        - video2vec-U: Built an end-to-end, unsupervised Visual Speech Recognition system that combines computer vision and natural language processing models, inspired by the wav2vec-U framework
+        - Fine-tuned visual-encoder(CNN and ViT-based model) and Language Model(n-gram, LSTM, and transformer) from scratch to capture visual features(mainly facial features) of the speaker
+        - Used multi-GPU setup for fine-tuning on large-scale video dataset
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: RAG over Confluence
+      year: 2023-2024
+      description: Open source python library for building quick RAG over confluence. Allows quick connections to slack and chat bot systems.
+    - title: Attention-Aware DPO
+      year: 2024
+      description: Large Language Vision Models(LLVMs) suffer from inadequacies when multi-image query is prompted. In this project, we modified the existing DPO loss(used for human preference alignment) to include a grounding loss based on model's attention mechanism.
+    - title: Multilingual Retrieval Heads
+      year: 2024-Present
+      description: Large Language Models(LLMs) are effective at extracting key information from a long in-context prompt. But how did LLM excel at this task? We mechanistically explain this phenomenon in multilingual setting. Currently in work with Professor Eunsol Choi.
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: New York University
+      year: Sept 2024 - Dec 2024
+      description:
+        - CSCI-UA.0480-052: Algorithmic Problem Solving
+    - title: Teaching Assistant
+      institution: New York University
+      year: Jan 2025 - May 2025
+      description:
+        - CSCI-UA.0102-001: Data Structures
+    - title: Course Assistant
+      institution: New York University
+      year: Sept 2025 - Dec 2025
+      description:
+        - CSCI-UA.0480-052: Algorithmic Problem Solving
+    - title: Teaching Assistant
+      institution: New York University
+      year: Sept 2025 - Dec 2025
+      description:
+        - CSCI-UA.0102-001: Data Structures
+
+- title: Volunteering
+  type: time_table
+  contents:
+    - title: Volunteer
+      institution: Lions Club International
+      year: 2020-2025
+    - title: Volunteer
+      institution: V core foundation
+      year: Sept 2025 - Jul 2020
