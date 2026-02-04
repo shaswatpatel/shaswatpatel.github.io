@@ -59,12 +59,16 @@ layout: default
   </header>
 
   <article class="post-content">
+    {% comment %}
+    TOC functionality disabled - requires custom plugin not supported by GitHub Pages
+    To re-enable, use GitHub Actions for deployment (see .github/workflows/deploy.yml)
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">
         {% toc %}
       </div>
       <hr>
     {% endif %}
+    {% endcomment %}
     <div id="markdown-content">
       {{ content }}
     </div>
