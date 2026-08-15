@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.nyu.edu/'>New York University</a>. Master's Student in Computer Science.
+subtitle: <a href='https://www.nyu.edu/'>New York University</a>. Research Scientist, AI Agents.
 
 profile:
   align: right
@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Machine Learning Engineer and Researcher currently pursuing a Master of Science in Computer Science at New York University. My research interests lie at the intersection of Large Language Models, Mechanistic Interpretability, and applications of LLM.
+I am a Machine Learning Engineer and Researcher. I hold a Master of Science in Computer Science from New York University. My research interests lie at the intersection of Large Language Models, AI Agents, and Mechanistic Interpretability.
 
-I’ve contributed to multiple projects focused on RAG (Retrieval-Augmented Generation) systems, fine-tuning transformer models, and leveraging machine learning to address a range of problems. Currently, I'm worked as a Machine Learning Engineer Intern at Studio Management, where I'm developing an Event Recommendation GPT system with advanced RAG capabilities. Checkout [Outie](https://www.outie.life/home).
+Currently, I am a Research Scientist at New York University working with [Prof. Claudio Silva](https://ctsilva.github.io/) on AI agents. I built [Lea](https://github.com/VIDA-NYU/Lea), an ecosystem of software that plugs into a mathematician's existing workflow and helps them formalize mathematics in Lean. Lea wraps a Lean 4 theorem-proving agent behind a standalone proof UI and an Overleaf extension that formalizes labeled theorem blocks straight from a paper draft. I also work with [Prof. He He](https://hhexiy.github.io/), and previously worked with [Dr. Eunsol Choi](https://eunsol.github.io/).
 
-Previously, I worked as a Software Engineer at Walmart, where I developed Confluence-integrated chatbots and automated monitoring systems. I also have experience as a Machine Learning Associate at Tavlab and MIDAS LAB, where I worked on biomedical NLP tasks, visual speech recognition, and COVID gene sequencing projects. Currently I am working with [Dr. Eunsol Choi](https://eunsol.github.io/) and [Dr. He He](https://hhexiy.github.io/).
+I’ve contributed to multiple projects focused on RAG (Retrieval-Augmented Generation) systems, fine-tuning transformer models, and leveraging machine learning to address a range of problems. Previously, I worked as a Machine Learning Engineer Intern at Studio Management, where I developed an Event Recommendation GPT system with advanced RAG capabilities — check out [Outie](https://www.outie.life/home). Before that, I was a Software Engineer at Walmart, where I developed Confluence-integrated chatbots and automated monitoring systems. I also have experience as a Machine Learning Associate at Tavlab and MIDAS LAB, where I worked on biomedical NLP tasks, visual speech recognition, and COVID gene sequencing projects.
 
-My work has been published in venues including MICCAI MLMI Workshop, ACL Workshop, and Medrxiv. I'm also passionate about teaching and have served as a Teaching Assistant for courses in [Algorithmic Problem Solving](https://cs.nyu.edu/~joannakl/aps_s21/problem_grading.html), [Data Structures](https://cims.nyu.edu/~joannakl/cs102/syllabus.html) and [Building LLM Reasoners](https://gregdurrett.github.io/courses/sp2026/index.html) at NYU.
+My work has been published in venues including MICCAI MLMI Workshop and ACL Workshop. I'm also passionate about teaching and have served as a Teaching Assistant for courses in [Algorithmic Problem Solving](https://cs.nyu.edu/~joannakl/aps_s21/problem_grading.html), [Data Structures](https://cims.nyu.edu/~joannakl/cs102/syllabus.html) and [Building LLM Reasoners](https://gregdurrett.github.io/courses/sp2026/index.html) at NYU.
